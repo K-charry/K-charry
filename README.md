@@ -17,3 +17,5 @@
 ## Contact
 
 [https://www.instagram.com/cha_ll_9911/]
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-charry&show_icons=true&theme=radical)
