@@ -7,8 +7,8 @@
 
 ## Skills
 
-languages available : C, Python, SQL
-Interests : Backend, Linux, Embedded, Cloud, Server
+- languages available : C, Python, SQL
+- Interests : Backend, Linux, Embedded, Cloud, Server
 
 ## Projects
 
